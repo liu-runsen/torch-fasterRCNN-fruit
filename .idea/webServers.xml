@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f63212a6-6afd-4975-ba3b-c4d2e81d4f92" name="fast">
+        <fileTransfer rootFolder="/home/lrs/fast" accessType="SFTP" host="192.168.31.125" port="22" sshConfigId="a3022705-eb94-48b1-8eb5-b171e1f8cf17" sshConfig="ng@192.168.31.125:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
